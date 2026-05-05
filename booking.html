@@ -1045,7 +1045,7 @@ async function submitBooking() {
   btn.textContent = 'Sending...';
 
   try {
-    const res = await fetch('https://casaelloriabackend-production.up.railway.app0/api/create-booking', {
+    const res = await fetch('https://casaelloriabackend-production.up.railway.app/api/create-booking', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({

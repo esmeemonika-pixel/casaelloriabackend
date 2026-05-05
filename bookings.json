@@ -1,0 +1,15 @@
+[
+  {
+    "id": "BK487362",
+    "property": "Luxury Villa Omega",
+    "checkin": "2026-05-10",
+    "checkout": "2026-05-12",
+    "name": "Test Booking",
+    "email": "esmeemonika@gmail.com",
+    "phone": "+91-9599930713",
+    "guests": 2,
+    "total": "16000",
+    "status": "pending_payment",
+    "createdAt": "2026-04-30T11:44:47.362Z"
+  }
+]
